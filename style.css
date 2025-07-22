@@ -67,6 +67,12 @@ body {
     letter-spacing: 0.2rem;
 }
 
+.hero-left-grid button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 15px 15px;
+}
+
 .hero-right-grid {
     align-self: center;
 }
@@ -133,6 +139,12 @@ body {
 
     .hero-left-grid h2 {
         font-size: 1rem;
+    }
+
+    .hero-left-grid button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 5px 5px;
     }
 
     /*--------------------------------------------------------------------------------------------------*/
